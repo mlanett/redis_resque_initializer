@@ -1,0 +1,6 @@
+Initializes Redis and Resque
+
+Usage:
+
+Create an initializer in your app, with this line:
+RedisResqueInitializer.initialize_redis_and_resque( ::Rails.root.to_s, ::Rails.env.to_s )
