@@ -1,0 +1,3 @@
+module RedisResqueInitializer
+  # Your code goes here...
+end
